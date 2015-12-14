@@ -690,7 +690,6 @@ blockquote {
   height: 12px;
   text-indent: -999em;
   overflow: hidden;
-  background: url('../images/nav-down-white.png') no-repeat;
   opacity: 0.6;
 }
 a:focus > .sf-sub-indicator,

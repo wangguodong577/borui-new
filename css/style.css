@@ -766,7 +766,7 @@ div.ppt { display:none !important }
 .more-projects-widget .categories a:hover { color:#000 !important; }
 .more-projects-widget .controls { display:none; margin-top:20px; padding-top:10px; border-top:1px solid #e5e5e5; text-align:center; }
 .more-projects-widget .top { display:none; margin-bottom:20px; padding-bottom:10px; border-bottom:1px solid #e5e5e5; text-align:center; }
-.more-projects-widget .controls a, .more-projects-widget .top a { background:url('images/icons/nav-slider-projects.png') no-repeat; display:inline-block; width:18px; height:18px; text-indent:-9999px; }
+.more-projects-widget .controls a, .more-projects-widget .top a { background:url('../icons/nav-slider-projects.png') no-repeat; display:inline-block; width:18px; height:18px; text-indent:-9999px; }
 .more-projects-widget  a.prev { background-position:left center; margin-right:10px; }
 .more-projects-widget  a.next { background-position:right center; }
 .more-projects-widget  a.disabled { opacity:0.2; cursor:default; }
