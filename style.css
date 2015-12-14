@@ -696,9 +696,9 @@ a.zoom { position:absolute; width:280px; height:204px; left:5px; top:5px; text-i
 .layout-sidebar-no .internal_page_item_gallery a.zoom { margin:26px 19px !important; }
 .layout-sidebar-no .internal_page_item_first a.zoom { margin:26px 7px !important }
 
-#portfolio-bigimage { margin-top:20px }
+#portfolio-bigimage { margin-top:0px }
 #portfolio-bigimage img { float:left; margin-bottom:0; }
-#portfolio-bigimage .work { padding-bottom:60px; }
+#portfolio-bigimage .work { padding-bottom:30px; padding-top:30px; }
 #portfolio-bigimage .work-description { float:right; width:33.5%; }
 #portfolio-bigimage .work-description.work-big-noimage { float:none; width:100%; }
 #portfolio-bigimage .work-description .btn { margin-top:10px; }

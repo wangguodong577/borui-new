@@ -94,10 +94,10 @@ blockquote {
 }
 #page_meta {
   margin-bottom: 15px;
-  padding: 20px 0;
+  padding: 20px 0 0;
 }
 #primary {
-  padding-top: 20px;
+  padding-top: 0;
 }
 #content {
   padding-bottom: 20px;
@@ -477,7 +477,7 @@ blockquote {
   margin-top: 0;
 }
 .map-control .tab-label {
-  background: url(../images/icons/for_button/remove.png) left no-repeat;
+  background: url(../images/icons/remove.png) left no-repeat;
   padding: 10px 20px 10px 0px;
   display: block;
   text-align: right;
@@ -504,7 +504,7 @@ blockquote {
   height: 340px;
 }
 .map-control .tab-label.closed {
-  background: url(../images/icons/for_button/tick.png) left no-repeat;
+  background: url(../images/icons/tick.png) left no-repeat;
 }
 /* ====================== END HEADER MAP ====================== */
 /* ====================== START NAVIGATION ====================== */
