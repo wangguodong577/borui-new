@@ -101,7 +101,7 @@ blockquote {
 }
 #content {
   padding-bottom: 20px;
-  width: 75%;
+  width: 73%;
 }
 #sidebar {
   width: 22%;
@@ -116,6 +116,7 @@ blockquote {
   -webkit-box-shadow: 0 0 5px 0px rgba(70, 70, 70, 0.3);
   -moz-box-shadow: 0 0 5px 0px rgba(70, 70, 70, 0.3);
   box-shadow: 0 0 5px 0px rgba(70, 70, 70, 0.3);
+  background: #fff;
 }
 /* ====================== END MAIN STRUCTURE ====================== */
 /* ====================== START STRETCHED LAYOUT ====================== */
@@ -158,7 +159,7 @@ blockquote {
 }
 .stretched-layout .home-section,
 .stretched-layout .home-row .widget {
-  background: none;
+  background: #fff;
   -webkit-border-top-left-radius: 0px;
   -moz-border-radius-topleft: 0px;
   border-top-left-radius: 0px;
@@ -471,12 +472,12 @@ blockquote {
   -webkit-border-bottom-right-radius: 10px;
   -moz-border-radius-bottomright: 10px;
   border-bottom-right-radius: 10px;
-  width: 100%;
+  /*width: 100%;*/
   position: relative;
-  margin: 1px auto 15px;
+  margin-top: 0;
 }
-.header-map .tab-label {
-  background: url(../images/icons/icon-close-map.png) left no-repeat;
+.map-control .tab-label {
+  background: url(../images/icons/for_button/remove.png) left no-repeat;
   padding: 10px 20px 10px 0px;
   display: block;
   text-align: right;
@@ -494,15 +495,16 @@ blockquote {
   overflow: hidden;
   height: 0px;
 }
+/*地图外层高度*/
 .header-map #map-wrap.opened {
-  height: 300px;
+  height: 400px;
 }
 .header-map .header-map #map {
   width: 100%;
   height: 340px;
 }
-.header-map .tab-label.closed {
-  background: url(../images/icons/icon-open-map.png) left no-repeat;
+.map-control .tab-label.closed {
+  background: url(../images/icons/for_button/tick.png) left no-repeat;
 }
 /* ====================== END HEADER MAP ====================== */
 /* ====================== START NAVIGATION ====================== */

@@ -304,6 +304,18 @@
 					  .stop()
 					  .delay( this.options.speed * this.options.titlesFactor )
 					  .animate({ marginRight : 0 + 'px', opacity : 1 }, this.options.titlespeed, this.options.titleeasing )
+
+			$nextSlide.find('div.ei-title > h4')
+				.css( 'margin-right', 50 + 'px' )
+				.stop()
+				.delay( this.options.speed * this.options.titlesFactor )
+				.animate({ marginRight : 0 + 'px', opacity : 1 }, this.options.titlespeed, this.options.titleeasing )
+				.end()
+				.find('div.ei-title > h5')
+				.css( 'margin-right', -50 + 'px' )
+				.stop()
+				.delay( this.options.speed * this.options.titlesFactor )
+				.animate({ marginRight : 0 + 'px', opacity : 1 }, this.options.titlespeed, this.options.titleeasing )
 			
 			$.when(
 				

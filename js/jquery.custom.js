@@ -1,24 +1,24 @@
 function yiw_lightbox()
 {   
-    jQuery('a.thumb.video, a.thumb.img').hover(
-                            
-        function()
-        {
-            jQuery('<a class="zoom">zoom</a>').appendTo(this).css({
-                dispay:'block', 
-                opacity:0, 
-                height:jQuery(this).children('img').height(), 
-                width:jQuery(this).children('img').width(),
-                'top':jQuery(this).css('padding-top'),
-                'left':jQuery(this).css('padding-left'),
-                padding:0}).animate({opacity:0.4}, 500);
-        },
-        
-        function()
-        {           
-            jQuery('.zoom').fadeOut(500, function(){jQuery(this).remove()});
-        }
-    );
+    //jQuery('a.thumb.video, a.thumb.img').hover(
+    //
+    //    function()
+    //    {
+    //        jQuery('<a class="zoom">zoom</a>').appendTo(this).css({
+    //            dispay:'block',
+    //            opacity:0,
+    //            height:jQuery(this).children('img').height(),
+    //            width:jQuery(this).children('img').width(),
+    //            'top':jQuery(this).css('padding-top'),
+    //            'left':jQuery(this).css('padding-left'),
+    //            padding:0}).animate({opacity:0.4}, 500);
+    //    },
+    //
+    //    function()
+    //    {
+    //        jQuery('.zoom').fadeOut(500, function(){jQuery(this).remove()});
+    //    }
+    //);
     
     jQuery("a[rel^='prettyPhoto']").prettyPhoto({
         slideshow:5000,
@@ -220,37 +220,36 @@ jQuery(document).ready(function($){
     
     
     
-    $('a img').hover(function(){ 
-        if ( $(this).parent().parent().attr('id') == 'logo' || $(this).parent().parent().parent().parent().parent().attr('id') == 'slider' || $(this).parent().parent().parent().parent().attr('id') == 'slider' )
-            return;
-        //$('.home_item_portfolio img').hover(function(){
-        $(this).stop().animate({opacity: 0.65}, 700);
-    }, function(){
-        $(this).stop().animate({opacity: 1});
-    });
+    //$('a img').hover(function(){
+    //    if ( $(this).parent().parent().attr('id') == 'logo' || $(this).parent().parent().parent().parent().parent().attr('id') == 'slider' || $(this).parent().parent().parent().parent().attr('id') == 'slider' )
+    //        return;
+    //    //$('.home_item_portfolio img').hover(function(){
+    //    $(this).stop().animate({opacity: 0.65}, 700);
+    //}, function(){
+    //    $(this).stop().animate({opacity: 1});
+    //});
 
     
     // map tab        
-    $('.header-map .tab-label').click(function(){
+    $('.map-control .tab-label').click(function(){
+        var mapControl = $('.map-control .tab-label');
+        var map = $('.header-map .tab-label');
         var mapWrap = $('#map-wrap');
-        var text = $(this).text();
-        var label = $(this);
+        var text = map.text();
+        var label = map;
         var height = $('#map').height();   
         
         if ( $(window).height() - 100 < height )
             height = $(window).height() - 100;
                                                   
-        //console.log( text + ' - ' + header_map.tab_open + ' - ' + header_map.tab_close );
-        
-        if ( $(this).hasClass('closed') ) {
+        if ( mapControl.hasClass('closed') ) {
             mapWrap.show().animate({height:height}, 500, function(){
-                label.removeClass('closed').addClass('opened').text(header_map.tab_close);
-        });
-            
-        } else if ( $(this).hasClass('opened') ) {
-            mapWrap.animate({height:0}, 500, function(){ 
-                $(this).hide();
-                label.removeClass('opened').addClass('closed').text(header_map.tab_open);
+                mapControl.removeClass('closed').addClass('opened').text('关闭地图');
+            })
+        } else if ( mapControl.hasClass('opened') ) {
+            mapWrap.animate({height:0}, 500, function(){
+                map.hide();
+                mapControl.removeClass('opened').addClass('closed').text('查看地图');
             });
         }                 
     

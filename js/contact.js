@@ -7,9 +7,9 @@ jQuery(document).ready(function($){
     function addLoading( e )
     {
 		$(e).val( '{wait}'.replace('{wait}', objectL10n.wait) ).attr('disabled', true);
-	}    
-    
-    function removeLoading( e )
+	}
+
+	function removeLoading( e )
     {
 		$(e).val(value_submit).attr('disabled', false);
 	}
