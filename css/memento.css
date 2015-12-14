@@ -477,7 +477,7 @@ blockquote {
   margin-top: 0;
 }
 .map-control .tab-label {
-  background: url(../images/icons/remove.png) left no-repeat;
+  background: url(../icons/remove.png) left no-repeat;
   padding: 10px 20px 10px 0px;
   display: block;
   text-align: right;
@@ -504,7 +504,7 @@ blockquote {
   height: 340px;
 }
 .map-control .tab-label.closed {
-  background: url(../images/icons/tick.png) left no-repeat;
+  background: url(../icons/tick.png) left no-repeat;
 }
 /* ====================== END HEADER MAP ====================== */
 /* ====================== START NAVIGATION ====================== */
@@ -1736,7 +1736,7 @@ h3#reply-title {
   font-family: 'SocialicoRegular';
   height: 20px;
   vertical-align: middle;
-  margin-top: -17px;
+  margin-top: 0px;
 }
 #copyright .center {
   padding: 3px 0;
@@ -2051,7 +2051,7 @@ span.highlight {
 }
 /* === SOCIALS */
 a.socials {
-  color: #6f6f6f;
+  color: #0168b7;
   font-family: 'SocialicoRegular';
 }
 a.socials:hover {

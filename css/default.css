@@ -11,7 +11,7 @@ h6 { color:#030303; }
 h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color:#D48303; }
 .hentry-post .post-title a { color:#2B2828; }
 .hentry-post .post-title { font-size:22px; }
-.ei-slider {height:400px;}body { background:#fff url('../../images/backgrounds/default.jpg') repeat top center fixed; }
+.ei-slider {height:400px;}body { background:#fff url('../images/background.jpg') repeat top center fixed; }
 body { background-color:#fff; }
 #header .inner {
         -webkit-border-bottom-left-radius: 10px; -moz-border-radius-bottomleft: 10px; border-bottom-left-radius: 10px;
