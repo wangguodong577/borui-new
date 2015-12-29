@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/borui-new.iml" filepath="$PROJECT_DIR$/.idea/borui-new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/borui.iml" filepath="$PROJECT_DIR$/.idea/borui.iml" />
     </modules>
   </component>
 </project>

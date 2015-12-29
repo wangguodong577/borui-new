@@ -1619,7 +1619,7 @@ h3#reply-title {
 /* ====================== END REPLY COMMENTS ====================== */
 /* ====================== START FOOTER ====================== */
 #footer p {
-  font-size: 12px;
+  font-size: 13px;
 }
 #footer p,
 #footer li,
@@ -1638,7 +1638,7 @@ h3#reply-title {
 .footer_cols_3 .widget h3,
 .footer_cols_4 .widget h3 {
   text-shadow: 0px 0px 2px #404040;
-  color: #fff;
+  color: #303030;
 }
 .footer_cols_1 .widget a,
 .footer_cols_2 .widget a,
@@ -1653,12 +1653,12 @@ h3#reply-title {
   color: #fcbb2f;
 }
 /* = NAV MENU */
-#footer .widget_nav_menu .menu li {
-  border-bottom: 1px solid #848484;
-  line-height: 30px;
-}
+/*#footer .widget_nav_menu .menu li {*/
+  /*border-bottom: 1px solid #848484;*/
+  /*line-height: 30px;*/
+/*}*/
 #footer .widget_nav_menu .menu li.columns2 {
-  width: 45%;
+  width: 90%;
   float: left;
   margin-right: 5%;
 }
@@ -1676,15 +1676,13 @@ h3#reply-title {
   border-right: 1px solid #fff;
   float: left;
   margin: 0;
-  margin-right: 17px;
+  margin-right: 8px;
   padding: 0;
   padding-right: 6px;
-  width: 60px;
 }
 #footer .recent-posts .post-date span,
 #footer .popular-posts .post-date span {
   display: block;
-  line-height: 18px;
   font-weight: bold;
   text-align: right;
   font-family: Arial, Helvetica, sans-serif;
@@ -1692,8 +1690,7 @@ h3#reply-title {
 }
 #footer .recent-posts .post-date .day,
 #footer .popular-posts .post-date .day {
-  font-size: 48px;
-  line-height: 40px;
+  font-size: 16px;
   padding-right: 0;
 }
 #footer .recent-posts .post-date .month,

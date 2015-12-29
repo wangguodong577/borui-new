@@ -231,7 +231,7 @@ jQuery(document).ready(function($){
 
     
     // map tab        
-    $('.map-control .tab-label').click(function(){
+    //$('.map-control .tab-label').click(function(){
         var mapControl = $('.map-control .tab-label');
         var map = $('.header-map .tab-label');
         var mapWrap = $('#map-wrap');
@@ -242,20 +242,20 @@ jQuery(document).ready(function($){
         if ( $(window).height() - 100 < height )
             height = $(window).height() - 100;
                                                   
-        if ( mapControl.hasClass('closed') ) {
+        //if ( mapControl.hasClass('closed') ) {
             mapWrap.show().animate({height:height}, 500, function(){
                 mapControl.removeClass('closed').addClass('opened').text('关闭地图');
             })
-        } else if ( mapControl.hasClass('opened') ) {
-            mapWrap.animate({height:0}, 500, function(){
-                map.hide();
-                mapControl.removeClass('opened').addClass('closed').text('查看地图');
-            });
-        }                 
+        //} else if ( mapControl.hasClass('opened') ) {
+        //    mapWrap.animate({height:0}, 500, function(){
+        //        map.hide();
+        //        mapControl.removeClass('opened').addClass('closed').text('查看地图');
+            //});
+        //}
     
-        return false;
+        //return false;
 
-    });         
+    //});
     
     $( '.features-tab-container' ).yiw_features_tab();
     $('.tabs-container').yiw_tabs({

@@ -325,7 +325,7 @@ img.alignleft, img.alignright, img.aligncenter{margin-bottom:12px;}
 
 /* === RECENT POSTS */
 .recent-post                          { margin-top:20px }
-.recent-post .hentry-post             { line-height:18px; margin-bottom: 10px; }
+.recent-post .hentry-post             { margin-bottom: 10px; }
 .recent-post a                        { }
 #sidebar .recent-post a.title         { color:#A16404; }
 #sidebar .recent-post a.title:hover   { color:#DA8102; }
