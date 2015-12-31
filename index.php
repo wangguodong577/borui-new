@@ -8,6 +8,7 @@
 
     <!-- START WRAPPER -->
     <div class="wrapper group">
+        <?php include("logo.html"); ?>
         <?php include("header.html"); ?>
         <!-- SLIDER -->
         <!-- BEGIN #slider -->
