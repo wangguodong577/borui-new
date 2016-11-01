@@ -22,7 +22,7 @@
 <!--		                        <h2>Maya Shop</h2>-->
 		                    </div>
 		                    <div class="post_content group  no-skills ">
-								<p>描述...</p>
+<!--								<p>描述...</p>-->
 <!--		                        <p>Nullam volutpat, mauris scelerisque iaculis semper, justo odio rutrum urna, at cursus urna nisl et ipsum. Donec dapibus lacus nec sapien faucibus eget suscipit lorem mattis.</p>-->
 <!--		                        <p><span id="more-566"></span>Donec non mauris ac nulla consectetur pretium sit amet rhoncus neque. Maecenas aliquet, diam sed rhoncus vestibulum,<strong> sem lacus ultrice</strong>s est, eu hendrerit tortor nulla in dui. Suspendisse enim purus, euismod interdum viverra eget, ultricies eu est. Maecenas dignissim mauris id est semper suscipit. Suspendisse venenatis vestibulum quam, quis porttitor arcu vestibulum et.</p>-->
 <!--		                        <p>Sed <a href="http://yourinspirationweb.com/demo/sheeva/work/photo-hot-soleil/#">porttitor eros</a> ut purus elementum a consectetur purus vulputate.</p>-->
@@ -42,24 +42,24 @@
 							<div class="sliderWrap">
 								<ul>
 									<li class="work-item group">
-										<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-										<a class="meta work-title" href="project.php">商标业务</a>
-										<p class="meta categories"><a href="project.php">了解更多</a></p>
+										<a class="work-thumb" href="services.php#service1"><img width="86" height="86" src="images/1.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+										<a class="meta work-title" href="services.php#service1">商标业务</a>
+										<p class="meta categories"><a href="services.php#service1">了解更多</a></p>
 									</li>
 									<li class="work-item group">
-										<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-										<a class="meta work-title" href="project.php">版权业务</a>
-										<p class="meta categories"><a href="project.php">了解更多</a></p>
+										<a class="work-thumb" href="services.php#service2"><img width="86" height="86" src="images/2.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+										<a class="meta work-title" href="services.php#service2">版权业务</a>
+										<p class="meta categories"><a href="services.php#service2">了解更多</a></p>
 									</li>
 									<li class="work-item group">
-										<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-										<a class="meta work-title" href="project.php">专利业务</a>
-										<p class="meta categories"><a href="project.php">了解更多</a></p>
+										<a class="work-thumb" href="services.php#service3"><img width="86" height="86" src="images/3.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+										<a class="meta work-title" href="services.php#service3">专利业务</a>
+										<p class="meta categories"><a href="services.php#service3">了解更多</a></p>
 									</li>
 									<li class="work-item group">
-										<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-										<a class="meta work-title" href="project.php">其他业务</a>
-										<p class="meta categories"><a href="project.php">了解更多</a></p>
+										<a class="work-thumb" href="services.php#service4"><img width="86" height="86" src="images/4.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+										<a class="meta work-title" href="services.php#service4">其他业务</a>
+										<p class="meta categories"><a href="services.php#service4">了解更多</a></p>
 									</li>
 								</ul>
 							</div>

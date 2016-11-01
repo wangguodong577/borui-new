@@ -46,9 +46,17 @@ a,
 #sidebar a:hover {
   color: #c98206;
 }
+a,
+.news #sidebar a:hover {
+  color: #000;
+}
+a,
+.news .im #sidebar a:hover {
+  color: #c98206;
+}
 a:hover,
 #sidebar a {
-  color: #000000;
+  color: #8c8c8c;
 }
 h1,
 h2,
@@ -451,7 +459,7 @@ blockquote {
 }
 #header .inner #logo a.logo-text {
   color: #fff;
-  font-size: 36px;
+  font-size: 30px;
   font-weight: bold;
 }
 #header .inner #logo a.logo-text span {
@@ -460,7 +468,7 @@ blockquote {
 #header .inner #logo p {
   color: #bcbcbc;
   margin-top: -10px;
-  font-size: 12px;
+  font-size: 15px;
 }
 /* ====================== END HEADER ====================== */
 /* ====================== START HEADER MAP ====================== */
@@ -1726,6 +1734,7 @@ h3#reply-title {
 #copyright {
   background-color: #2b2b2b;
   color: #fff;
+  height: 40px;
 }
 #copyright a.socials {
   display: inline-block;
@@ -1748,6 +1757,7 @@ h3#reply-title {
 #copyright p {
   color: #fff;
   font-size: 12px;
+  vertical-align: middle;
 }
 #copyright p a:hover {
   color: #f9b43c;

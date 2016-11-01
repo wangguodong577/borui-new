@@ -9,7 +9,7 @@
 <!-- START WRAPPER -->
 <div class="wrapper group">
 <?php include("header.html"); ?>
-<?php $pageTitle='了解博瑞'; ?>
+<?php $pageTitle='法律法规'; ?>
 <?php include("pageTitle.php"); ?>
 
         <div id="primary" class="layout-sidebar-right home-section">

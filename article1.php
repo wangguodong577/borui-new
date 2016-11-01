@@ -1,41 +1,50 @@
 <!DOCTYPE html>
 <html>
 <head>
-<?php include("head.html"); ?>
-<link rel="stylesheet" type="text/css" media="all" href="css/default.css" />
+    <?php include("head.html"); ?>
+    <link rel="stylesheet" type="text/css" media="all" href="css/default.css" />
 </head>
 <body class="no_js responsive stretched-layout chrome ">
 
 <!-- START WRAPPER -->
 <div class="wrapper group">
-<?php include("header.html"); ?>
-<?php $pageTitle='了解博瑞'; ?>
-<?php include("pageTitle.php"); ?>
-
-        <div id="primary" class="layout-sidebar-right home-section">
+	<?php include("header.html"); ?>
+	<?php $pageTitle=''; ?>
+	<?php include("pageTitle.php"); ?>
+        
+            <div id="primary" class="layout-sidebar-right home-section">
 		    <div class="inner group">
-		        <!-- START CONTENT -->                
+		        <!-- START CONTENT -->
 		        <div id="content" class="group">
+
 		            <div class="clear"></div>
-		            <div class="posts">
-		                <div class="portfolio type-portfolio status-publish hentry hentry-post group portfolio-post internal-post">
-		                    <div class="post_header portfolio_header group">
-		                        <img width="700" height="260" src="images/work.jpg" class="internal wp-post-image" alt="work" title="work" />
-		                        <h2>专注知识产权</h2>
-		                    </div>
-		                    <div class="post_content group  no-skills ">
-<!--								<p>描述...</p>-->
-<!--		                        <p>了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 </p>-->
-<!--		                        <p>了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 </p>-->
-<!--		                        <p>了解博瑞  <a href="#">了解博瑞 </a> 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 </p>-->
-		                    </div>
-							<div class="post_ group">
-								<span class="edit-link"><a class="post-edit-link" href="contact.php" title="Edit Work">联系我们</a></span>
-							</div>
+
+		            <div class="post type-post status-publish format-standard hentry category-uncategorized hentry-post group blog-big">
+<!--		                <div class="meta group">-->
+<!--		                    <p class="date"><i class="icon-calendar"></i>May 2, 2012</p>-->
+<!--		                    <p class="author"><i class="icon-user"></i> <span>by <a href="author.html" title="Posts by Nicola Mustone" rel="author">Nicola Mustone</a></span></p>-->
+<!--		                    <p class="categories"><i class="icon-tags"></i> <span>In: <a href="#" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span></p>-->
+<!--		                    <p class="comments"><i class="icon-comment"></i> <span><a href="#comments" title="Comment on Another great article of the blog">2 comments</a></span></p>-->
+<!--		                    <p class="edit-link"><i class="icon-pencil"></i><a class="post-edit-link" href="#" title="Edit Post">Edit</a></p>-->
+<!--		                </div>-->
+		                <div class="thumbnail">
+		                    <h1 class="post-title"><a>腾讯起诉迅雷侵权播放好声音 索赔三百万</a></h1>
+		                </div>
+		                <div class="clearer"></div>
+		                <div class="the-content-single article">
+							<p>10月27日，据北京海淀法院官方微博消息， 因认为“迅雷”手机客户端未经许可，提供《中国好声音》视听节目的在线播放服务，腾讯公司将迅雷公司及软件下载提供方机锋公司诉至法院，要求停止侵权。日前，海淀法院受理了此案。</p>
+							<p>腾讯公司诉称，其是《中国好声音》(第三季第一、二、三期)在中国大陆地区的独占性信息网络传播权权利人，享有对侵权行为依法维权的权利。2016年3月，经调查发现，迅雷公司运营的“迅雷”手机客户端未经许可向网友提供《中国好声音》(第三季第一、二、三期)的在线播放服务，构成侵权，给腾讯造成了巨大的经济损失。机锋公司运营的机锋市场作为侵权应用的下载提供方，在多次收到腾讯公司投诉函后，仍未做下架处理，进一步加大腾讯损失。</p>
+							<p>腾讯方面认为，其为获得节目的合法权利付出了巨大的经济成本，二被告的行为极大的影响了腾讯公司商业运营，已经构成共同侵权，根据著作权法的相关规定，应承担连带赔偿责任。因此起诉要求判令二被告立即停止侵权并赔偿经济损失300万元(每期100万元)。</p>
+							<p>目前此案正在进一步审理当中。</p>
+							<p>截至北京时间27日22:36，迅雷股价跌1.35%，报5.12美元。</p>
 		                </div>
 		            </div>
+					<div class="source">来源：新浪财经</div>
+
 		        </div>
 		        <!-- END CONTENT -->
+		        
+		        <!-- START LATEST NEWS -->
 				<div id="sidebar" class="group one-fourth last">
 					<div id="more_projects-2" class="widget-1 widget-first widget-last widget more_projects">
 						<h2>博瑞服务</h2>
@@ -115,6 +124,7 @@
 						</script>
 					</div>
 				</div>
+		           
 		    </div>
 		</div>
 		<div class="clear"></div>
@@ -122,5 +132,5 @@
 		<!-- END WRAPPER -->
 <?php include("extend.html"); ?>
 <?php include("footer.html"); ?>
-    </body>
+</body>
 </html>

@@ -84,7 +84,7 @@
 			        </div>
 			        <!-- END CONTENT -->
 			        <!-- START SIDEBAR -->
-		        <div id="sidebar" class="group one-fourth last">
+					<div id="sidebar" class="group one-fourth last">
 						<div id="more_projects-2" class="widget-1 widget-first widget-last widget more_projects">
 							<h2>博瑞服务</h2>
 							<div class="more-projects-widget">
@@ -92,24 +92,24 @@
 								<div class="sliderWrap">
 									<ul>
 										<li class="work-item group">
-											<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-											<a class="meta work-title" href="project.php">商标业务</a>
-											<p class="meta categories"><a href="project.php">了解更多</a></p>
+											<a class="work-thumb" href="services.php#service1"><img width="86" height="86" src="images/1.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+											<a class="meta work-title" href="services.php#service1">商标业务</a>
+											<p class="meta categories"><a href="services.php#service1">了解更多</a></p>
 										</li>
 										<li class="work-item group">
-											<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-											<a class="meta work-title" href="project.php">版权业务</a>
-											<p class="meta categories"><a href="project.php">了解更多</a></p>
+											<a class="work-thumb" href="services.php#service2"><img width="86" height="86" src="images/2.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+											<a class="meta work-title" href="services.php#service2">版权业务</a>
+											<p class="meta categories"><a href="services.php#service2">了解更多</a></p>
 										</li>
 										<li class="work-item group">
-											<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-											<a class="meta work-title" href="project.php">专利业务</a>
-											<p class="meta categories"><a href="project.php">了解更多</a></p>
+											<a class="work-thumb" href="services.php#service3"><img width="86" height="86" src="images/3.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+											<a class="meta work-title" href="services.php#service3">专利业务</a>
+											<p class="meta categories"><a href="services.php#service3">了解更多</a></p>
 										</li>
 										<li class="work-item group">
-											<a class="work-thumb" href="project.php"><img width="86" height="86" src="images/work-mini.jpg" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
-											<a class="meta work-title" href="project.php">其他业务</a>
-											<p class="meta categories"><a href="project.php">了解更多</a></p>
+											<a class="work-thumb" href="services.php#service4"><img width="86" height="86" src="images/4.png" class="attachment-thumb_more_projects wp-post-image" alt="work" title="work" /></a>
+											<a class="meta work-title" href="services.php#service4">其他业务</a>
+											<p class="meta categories"><a href="services.php#service4">了解更多</a></p>
 										</li>
 									</ul>
 								</div>

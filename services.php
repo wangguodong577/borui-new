@@ -27,7 +27,7 @@
 			                    </div>
 			                    <div class="work-description ">
 			                        <h2>商标业务</h2>
-			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>
+<!--			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>-->
 			                        <a class="read-more" href="project.html" /><a href="project.php" class="btn btn-son-1 "><i class="icon-search"></i> 了解更多</a></a>
 			                    </div>
 			                    <div class="clear"></div>
@@ -43,7 +43,7 @@
 			                    </div>
 			                    <div class="work-description ">
 			                        <h2>版权业务</h2>
-			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>
+<!--			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>-->
 			                        <a class="read-more" href="project.html" /><a href="project.php" class="btn btn-son-1 "><i class="icon-search"></i> 了解更多</a></a>
 			                    </div>
 			                    <div class="clear"></div>
@@ -59,7 +59,7 @@
 			                    </div>
 			                    <div class="work-description ">
 			                        <h2>专利业务</h2>
-			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>
+<!--			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>-->
 			                        <a class="read-more" href="project.html" /><a href="project.php" class="btn btn-son-1 "><i class="icon-search"></i> 了解更多</a></a>
 			                    </div>
 			                    <div class="clear"></div>
@@ -75,7 +75,7 @@
 			                    </div>
 			                    <div class="work-description ">
 			                        <h2>其他业务</h2>
-			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>
+<!--			                        <p>业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 业务描述 </p>-->
 			                        <a class="read-more" href="project.html" /><a href="project.php" class="btn btn-son-1 "><i class="icon-search"></i> 了解更多</a></a>
 			                    </div>
 			                    <div class="clear"></div>

@@ -8,15 +8,17 @@
 
 <!-- START WRAPPER -->
 <div class="wrapper group">
-    <?php include("header.html"); ?>
+	<?php include("header.html"); ?>
+	<?php $pageTitle=''; ?>
+	<?php include("pageTitle.php"); ?>
         
             <div id="primary" class="layout-sidebar-right home-section">
 		    <div class="inner group">
 		        <!-- START CONTENT -->
 		        <div id="content" class="group">
-		            
+
 		            <div class="clear"></div>
-		            
+
 		            <div class="post type-post status-publish format-standard hentry category-uncategorized hentry-post group blog-big">
 <!--		                <div class="meta group">-->
 <!--		                    <p class="date"><i class="icon-calendar"></i>May 2, 2012</p>-->
@@ -26,19 +28,21 @@
 <!--		                    <p class="edit-link"><i class="icon-pencil"></i><a class="post-edit-link" href="#" title="Edit Post">Edit</a></p>-->
 <!--		                </div>-->
 		                <div class="thumbnail">
-		                    <h1 class="post-title"><a>标题</a></h1>
+		                    <h1 class="post-title"><a>传奇IP纠纷再起变化 中韩法院给出不同评判</a></h1>
 		                </div>
 		                <div class="clearer"></div>
-		                <div class="the-content-single">
-							<p>内容</p>
-<!--		                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec turpis odio, ultrices at tincidunt in, consequat non arcu. Nulla facilisi. Morbi ut posuere libero.</p>-->
-<!--		                    <p><span id="more-390"></span></p>-->
-<!--		                    <p>Aenean imperdiet dolor vitae elit gravida faucibus. Proin aliquet, sapien non euismod elementum, quam justo tristique lorem, sit amet bibendum turpis magna in ipsum. Fusce tincidunt, tortor id congue auctor, magna sapien congue diam, vestibulum ullamcorper nibh lorem rutrum purus. Duis rhoncus iaculis porta.</p>-->
-<!--		                    <p>Duis odio lectus, mollis in dictum euismod, auctor ac nisi. Cras nec ipsum risus, at rutrum massa. Curabitur dolor erat, vulputate ut mollis vitae, tempor eget leo. Vivamus ac ipsum ante. Pellentesque nibh nulla, venenatis et pretium nec, commodo ut mauris. Duis arcu felis, ultricies non mattis non, dignissim dictum magna. Cras sem dui, sagittis in consequat nec, hendrerit eget nisl. Fusce sit amet augue dolor, sit amet pulvinar purus. Maecenas nec laoreet lorem. Morbi cursus pretium lacus eu mattis. Pellentesque porta hendrerit nisl nec posuere. Sed sed tempor velit.</p>-->
-<!--		                    <p>Pellentesque faucibus diam ut lorem viverra sed consequat risus ultrices. Sed sodales lorem in lorem egestas eu vulputate nibh pellentesque. Aenean iaculis libero a lacus semper interdum. Fusce feugiat magna ut ipsum blandit dapibus. Integer convallis pharetra mauris, a luctus ligula vulputate vitae. Vivamus purus elit, scelerisque vel sodales vel, posuere nec tellus. Aliquam augue turpis, luctus at pharetra non, consequat sit amet sem. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vel justo lectus, laoreet dignissim nunc. Nunc id lectus pellentesque ligula scelerisque congue. In cursus nisi quam, sit amet commodo urna. Vivamus a massa non magna varius ultrices. Suspendisse potenti. Aliquam erat volutpat.</p>-->
+		                <div class="the-content-single article">
+							<p>10月27日消息，日前，久拖不决的传奇版权纠纷再起变化，恺英方面通过全资孙公司，再次与娱美德达成授权许可协议，绕开了中国法院下达的合同履行禁令。两家公司的依仗，则是前几天公开的韩国首尔中央地方法院的判决，该判决驳回了亚拓士禁止娱美德单方处分传奇版权的申请。同一申请不用境遇，传奇版权纠纷在两国法律程序正式介入的情况下，依然扑朔迷离结局难定。</p>
+							<p>考察两国法院公开的法律文书，娱美德和亚拓士争议的焦点，在于娱美德作为传奇的共有著作权人，是否具有单独对外授权的资质，而双方在2004年签订的“和解笔录”，则成为法院厘清权责的关键证据。</p>
+							<p>无论是上海知识产权法院还是首尔中央地方法院，都认为“和解笔录”中不存在关于单方对外授权的明确约定，在此情况下，娱美德能否单方授权第三方，将完全取决于两国著作权法的相关规定。</p>
+							<p>上海知识产权法院认为，在没有对外单独授权的特别约定的前提下，娱美德未与亚拓士协商的行为涉嫌侵害后者的共有著作权，其与恺英公司签订的许可合同若履行，则必然给亚拓士带来实际损害，因此做出了有利于亚拓士的最终裁决。</p>
+							<p>而首尔中央地方法院则认为，从“和解笔录”条款字面来看，是否允许各方当事人单独授权并不明确，但法院同时也要求，亚拓士要求法院禁止娱美德单独授权需要“合理理由”，由于亚拓士一方举证不足，因此法院对其保全申请不予支持。</p>
+							<p>对于中韩法院不一致的裁决，法律专家做出了专业的解读。中韩虽然同属大陆法系，但著作权法的具体规定和法院裁量仍然各有侧重，中国偏紧而韩国偏松，这体现了两国不同的版权现状和法院偏向。中国对于版权保护和压制侵权的需求更为紧迫，因此法院往往在版权纠纷案件中倾向于更为严格的态度，中国法院将通知和协商认定为共有著作权人对外授权的前置条件，就是这一态度的体现。而韩国则相对更为宽松一些，娱美德的单方授权行为，只要亚拓士没有合理理由加以反对，则法院不予禁止。</p>
+							<p>根据我国民事诉讼法的规定，民事裁定只可复议一次，法院经复议后下达的裁定即为最终裁定，其效力在法院正式撤销之前一直有效。而外国法院的判决和裁定，必须经过中国法院的认定才能在中国具有效力。这就意味着，在决定传奇版权归属的官司尘埃落定之前，娱美德和恺英之间签订的授权许可合同将在中国一直处于禁止履行的状态。考虑到跨国知识产权纠纷在调查、取证、送达等诸多环节上的特殊性，加上可能的上诉、再审等后续程序，这场传奇官司拖延经年乃至旷日持久实属必然。</p>
 		                </div>
 		            </div>
-		            
+					<div class="source">来源：新浪科技</div>
+
 		        </div>
 		        <!-- END CONTENT -->
 		        
@@ -121,7 +125,7 @@
 							});
 						</script>
 					</div>
-				</div>		        <!-- END LATEST NEWS -->
+				</div>
 		           
 		    </div>
 		</div>

@@ -17,55 +17,210 @@
 			        <div id="content" class="group">
 			            <div class="page type-page status-publish hentry group">
 			                
-			                <div class="testimonial two-fourth">
-			                    <div class="thumbnail">
-			                        <img width="94" height="94" src="images/work-mini.jpg" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_7454857_Subscription_XXL" title="Fotolia_7454857_Subscription_XXL" />
-			                    </div>
-			                    <div class="testimonial-text">
-			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>
-			                    </div>
-			                    <div class="testimonial-name">
-			                        <p class="name">name</p>
-			                        <!--<a class="website" href="http://www.google.it">Google </a>            -->
-			                    </div>
-			                </div>
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">杜鹃</p>
+								</div>
+							</div>
 			                
 			                <div class="testimonial two-fourth last">
 			                    <div class="thumbnail">
-			                        <img width="94" height="94" src="images/work-mini.jpg" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+			                        <img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
 			                    </div>
 			                    <div class="testimonial-text">
-			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>
+<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
 			                    </div>
 			                    <div class="testimonial-name">
-			                        <p class="name">name</p>
+			                        <p class="name">胡翠琴</p>
 			                    </div>
 			                </div>
 			                
 			                <div class="testimonial two-fourth">
 			                    <div class="thumbnail">
-			                        <img width="94" height="94" src="images/work-mini.jpg" class="attachment-thumb_testimonial wp-post-image" alt="ricardo" title="ricardo" />
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
 			                    </div>
 			                    <div class="testimonial-text">
-			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>
+<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
 			                    </div>
 			                    <div class="testimonial-name">
-			                        <p class="name">name</p>
+			                        <p class="name">陈诺</p>
 			                        <!--<a class="website" href="http://www.netsons.com">Netsons Srl</a>            -->
 			                    </div>
 			                </div>
 			                
 			                <div class="testimonial two-fourth last">
 			                    <div class="thumbnail">
-			                        <img width="94" height="94" src="images/work-mini.jpg" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_20568380_Subscription_XXL" title="Fotolia_20568380_Subscription_XXL" />
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
 			                    </div>
 			                    <div class="testimonial-text">
-			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>
+<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
 			                    </div>
 			                    <div class="testimonial-name">
-			                        <p class="name">name</p>
+			                        <p class="name">张涛</p>
 			                    </div>
 			                </div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">郑松哲</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">赵元淑</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">高聪</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">刘晓宇</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">韩君恒</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">李涛</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">杨嘉欣</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">李炬</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">罗丽珍</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">董世连</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">岳耀峰</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+									<!--			                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">陈榕金</p>
+								</div>
+							</div>
+
+							<div class="testimonial two-fourth last">
+								<div class="thumbnail">
+									<img width="94" height="94" src="images/contact.png" class="attachment-thumb_testimonial wp-post-image" alt="Fotolia_24730952_Subscription_XXL" title="Fotolia_24730952_Subscription_XXL" />
+								</div>
+								<div class="testimonial-text">
+<!--												                        <p>介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 介绍 </p>-->
+								</div>
+								<div class="testimonial-name">
+									<p class="name">邓继军</p>
+								</div>
+							</div>
 			                
 			            </div>
 			        </div>
