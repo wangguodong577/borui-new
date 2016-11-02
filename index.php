@@ -26,7 +26,7 @@
                     </div>
                 </li>
                 <li class="slide-2 slide align- image-content-type">
-                    <img src="images/slider-2.jpg" width="1280" height="400" alt="Love alt2 red fruit.." />
+                    <img src="images/slider-6.png" width="1280" height="400" alt="Love alt2 red fruit.." />
                     <div class="ei-title">
                         <h4>BRAIN</h4>
                         <h5>博瑞方舟</h5>

@@ -28,7 +28,7 @@
 <!--		                        <p>Sed <a href="http://yourinspirationweb.com/demo/sheeva/work/photo-hot-soleil/#">porttitor eros</a> ut purus elementum a consectetur purus vulputate.</p>-->
 		                    </div>
 		                    <div class="post_ group">
-		                        <span class="edit-link"><a class="post-edit-link" href="contact.php" title="Edit Work">联系我们</a></span>
+<!--		                        <span class="edit-link"><a class="post-edit-link" href="contact.php" title="Edit Work">联系我们</a></span>-->
 		                    </div>
 		                </div>
 		            </div>

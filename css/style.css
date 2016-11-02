@@ -23,10 +23,9 @@ body {
 /* === TYPOGRAPHY */
 p, li, address, dd, blockquote, td, th { font-size:12px; line-height:1.81em }
 body, p, li, address, dd, blockquote   { color:#545252; } 
-h1, h2, h3, h4, h5, h6, p, dl, ul, ol  { margin:0.2em 0 0.3em; }
-a, a:hover                             { text-decoration:none; }
-a, #sidebar a:hover                    {  }
-a:hover, #sidebar a                    { color: #a6a6a6 }
+h1, h2, h3, h4, h5, h6, p, dl, ul, ol  { margin:0.8em 0 0.3em; }
+/*a, a:hover                             { text-decoration:none; }*/
+/*a:hover, #sidebar a                    { color: #a6a6a6 }*/
 h1, h2, h3, h4, h5, h6                 { color: #000 }
 h1                                     { font-size:26px; }
 h2                                     { font-size:20px; }
@@ -740,8 +739,8 @@ div.ppt { display:none !important }
 .portfolio-slider .jcarousel-next-disabled-vertical,.portfolio-slider .jcarousel-next-disabled-vertical:hover,.portfolio-slider .jcarousel-next-disabled-vertical:active,.portfolio-slider .jcarousel-prev-disabled-vertical,.portfolio-slider .jcarousel-prev-disabled-vertical:hover,.portfolio-slider .jcarousel-prev-disabled-vertical:active{cursor:default;background-position:0 -96px;}
 
 .portfolio-post {}
-.portfolio-post .post_content {padding-top:10px;}
-.portfolio-post .portfolio_header { margin-bottom: 20px; position: relative; padding-top:20px; }
+.portfolio-post .post_content {padding-top:0px;}
+.portfolio-post .portfolio_header { position: relative; padding-top:20px; }
 .portfolio-post .portfolio_header h2 { position: absolute; bottom: 0; right: 0; background: #ECD4D4; opacity: 0.8; padding: 5px 30px 5px 20px !important; margin:0 !important; line-height: 40px; font-size: 30px; border-left-radius:10px;-moz-border-radius-topleft:10px;-webkit-border-top-left-radius:10px; }
 .portfolio-post .portfolio_header img { display:block; border: none; padding: 0; margin:0; border-radius:15px; -moz-border-radius:15px; -webkit-border-radius:15px; }
 
@@ -1007,3 +1006,11 @@ div.ppt { display:none !important }
 
 .article p{text-indent:30px; font: 16px/28px Microsoft YaHei; color: #222}
 #content .source{text-align:right; font: 14px/24px Microsoft YaHei; color: #999}
+
+.news p{font:14px Microsoft YaHei; color: #222}
+
+.FNewMTop ul li{ padding-left:19px; height:28px;}
+.FNewMTop ul li a{ line-height:28px; font-size:14px; color:#004276;}
+.FNewMTop ul li a:hover{ color:#f54343; text-decoration:underline;}
+ol, ul{ list-style:none;}
+

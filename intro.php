@@ -30,7 +30,7 @@
 <!--		                        <p>了解博瑞  <a href="#">了解博瑞 </a> 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 了解博瑞 </p>-->
 		                    </div>
 							<div class="post_ group">
-								<span class="edit-link"><a class="post-edit-link" href="contact.php" title="Edit Work">联系我们</a></span>
+<!--								<span class="edit-link"><a class="post-edit-link" href="contact.php" title="Edit Work">联系我们</a></span>-->
 							</div>
 		                </div>
 		            </div>

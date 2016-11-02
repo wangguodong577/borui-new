@@ -17,30 +17,50 @@
 		        <!-- START CONTENT -->                
 		        <div id="content" class="group">
 		            <div class="clear"></div>
-		            <div class="posts news">
+		            <div class="posts news FNewMTop">
 		                <div class="portfolio type-portfolio status-publish hentry hentry-post group portfolio-post internal-post">
 		                    <div class="post_header portfolio_header group">
-		                        <img width="700" height="260" src="images/work.jpg" class="internal wp-post-image" alt="work" title="work" />
+		                        <img width="700" height="260" src="images/work-2.png" class="internal wp-post-image" alt="work" title="work" />
 		                        <h2>最新资讯</h2>
 		                    </div>
-		                    <div class="post_content group no-skills im">
-		                        <p><a href="article1.php" title="Professional Blogging" class="title"><b>腾讯起诉迅雷侵权播放好声音 索赔三百万</b></a></p>
-		                    </div>
-							<div class="post_content group no-skills im">
-								<p><a href="article2.php" title="Professional Blogging" class="title"><b>传奇IP纠纷再起变化 中韩法院给出不同评判</b></a></p>
-							</div>
-							<div class="post_content group no-skills ">
-								<p><a href="article3.php" title="Professional Blogging" class="title"><b>郭靖、黄蓉等名字被盗用？金庸诉作家江南侵权索赔500万</b></a></p>
-							</div>
-							<div class="post_content group no-skills ">
-								<p><a href="article4.php" title="Professional Blogging" class="title"><b>婚趣网被判未侵权婚趣商标</b></a></p>
-							</div>
-							<div class="post_content group no-skills ">
-								<p><a href="article5.php" title="Professional Blogging" class="title"><b>我国将开放企业名称库便利企业登记注册</b></a></p>
-							</div>
-							<div class="post_content group no-skills ">
-								<p><a href="article6.php" title="Professional Blogging" class="title"><b>苹果新专利曝光 数字定位技术快速寻找失物</b></a></p>
-							</div>
+							<ul class="FNewMTopLis">
+								<li>
+									<a href="article1.php" title="Professional Blogging" class="title im"><b>腾讯起诉迅雷侵权播放好声音 索赔三百万</b></a>
+								</li>
+								<li>
+									<a href="article1.php" title="Professional Blogging" class="title im"><b>传奇IP纠纷再起变化 中韩法院给出不同评判</b></a>
+								</li>
+								<li>
+									<a href="article1.php" title="Professional Blogging" class="title normal"><b>郭靖、黄蓉等名字被盗用？金庸诉作家江南侵权索赔500万</b></a>
+								</li>
+								<li>
+									<a href="article1.php" title="Professional Blogging" class="title normal"><b>婚趣网被判未侵权婚趣商标</b></a>
+								</li>
+								<li>
+									<a href="article1.php" title="Professional Blogging" class="title normal"><b>我国将开放企业名称库便利企业登记注册</b></a>
+								</li>
+								<li>
+									<a href="article1.php" title="Professional Blogging" class="title normal"><b>苹果新专利曝光 数字定位技术快速寻找失物</b></a>
+								</li>
+<!--		                    <div class="post_content group no-skills">-->
+<!--		                        <p><a href="article1.php" title="Professional Blogging" class="title im"><b>腾讯起诉迅雷侵权播放好声音 索赔三百万</b></a></p>-->
+<!--		                    </div>-->
+<!--							<div class="post_content group no-skills im">-->
+<!--								<p><a href="article2.php" title="Professional Blogging" class="title im"><b>传奇IP纠纷再起变化 中韩法院给出不同评判</b></a></p>-->
+<!--							</div>-->
+<!--							<div class="post_content group no-skills">-->
+<!--								<p><a href="article3.php" title="Professional Blogging" class="title normal"><b>郭靖、黄蓉等名字被盗用？金庸诉作家江南侵权索赔500万</b></a></p>-->
+<!--							</div>-->
+<!--							<div class="post_content group no-skills normal">-->
+<!--								<p><a href="article4.php" title="Professional Blogging" class="title normal"><b>婚趣网被判未侵权婚趣商标</b></a></p>-->
+<!--							</div>-->
+<!--							<div class="post_content group no-skills normal">-->
+<!--								<p><a href="article5.php" title="Professional Blogging" class="title normal"><b>我国将开放企业名称库便利企业登记注册</b></a></p>-->
+<!--							</div>-->
+<!--							<div class="post_content group no-skills normal">-->
+<!--								<p><a href="article6.php" title="Professional Blogging" class="title normal"><b>苹果新专利曝光 数字定位技术快速寻找失物</b></a></p>-->
+<!--							</div>-->
+							</ul>
 		                </div>
 		            </div>
 		        </div>

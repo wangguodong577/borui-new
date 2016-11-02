@@ -19,7 +19,7 @@
 		            <div class="posts">
 		                <div class="portfolio type-portfolio status-publish hentry hentry-post group portfolio-post internal-post">
 		                    <div class="post_header portfolio_header group">
-		                        <img width="700" height="260" src="images/work.jpg" class="internal wp-post-image" alt="work" title="work" />
+		                        <img width="700" height="360" src="images/work-1.png" class="internal wp-post-image" alt="work" title="work" />
 		                        <h2>博瑞风采</h2>
 		                    </div>
 		                    <div class="post_content group  no-skills ">
